@@ -17,4 +17,25 @@ This summer I have had the luxury of commuting to UCLA twice a week for a total 
 Unlike other projects, for this research study I will have to design my own experiment and collect data on my own. I will be utilizing random basic factorial design and select predictor variables based on literature and my own experience driving. Because I am using factorial design all my variables will have to be categorical variables. This means that if I used numerical values like temperature of the day or time departed, I would have to transform these into categorical variables. 
 
 ## Factors 
+Passengers, Lane, Weather, Time of Departure, Length of Journey, Speed, Machine, Operator. 
 
+Fixed: Operator, Vehicle
+Controlled: Lane
+Uncontrolled: Passengers, Time of Departure, Day of the Week, Weather, Speed, Route, Traffic
+
+Operator: Acceleration, Deceleration, How Person Drives
+Vehicle: Lexus 
+Lane: 1,2,3,4 
+Speed: High(70+),  Medium(50-65), Super Low (0-45)
+Passengers: 1 , More than 1 
+Weather: A(90+), B(78-90), C (77-)
+Time of Departure: Early Morning(6AM-8AM), Mid Morning(9AM-12PM), Afternoon(12PM-6PM), Evening (6PM-9PM), Late Evening(9PM-3AM)
+Day of the Week: Weekday, Weekend
+Route: Freeway, Street
+Traffic: Towards, Against
+
+### Sources
+fueleconomy.gov/feg/factors.shtml
+https://wgntv.com/weather/how-do-you-define-daytime-and-evening-times-in-a-weather-forecast/#:~:text=Early%20morning%3A%206%2D9%20a.m.,%2Dmorning%3A%208%2D10%20a.m.&text=Afternoon%3A%20noon%2D6%20p.m.,Early%20afternoon%3A%20noon%2D3%20p.m.
+https://www.wired.com/story/is-there-an-optimal-driving-speed-that-saves-gas-and-money/
+https://weather.com/weather/tenday/l/48b93e49a11f590ed49e1223fa2b66fe5d8e8c1b914049ea73b0b758a4e0e39f#detailIndex5
