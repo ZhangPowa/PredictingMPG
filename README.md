@@ -17,10 +17,10 @@ This summer I have had the luxury of commuting to UCLA twice a week for a total 
 Unlike other projects, for this research study I will have to design my own experiment and collect data on my own. I will be utilizing random basic factorial design and select predictor variables based on literature and my own experience driving. Because I am using factorial design all my variables will have to be categorical variables. This means that if I used numerical values like temperature of the day or time departed, I would have to transform these into categorical variables. 
 
 ## Factors 
-Passengers, Lane, Weather, Time of Departure, Length of Journey, Speed, Machine, Operator. 
+Passengers, Weather, Time of Departure, Length of Journey, Speed, Machine, Operator, Gas. 
 
-Fixed: Operator, Vehicle
-Controlled: Lane
+Fixed: Operator, Vehicle, Gas 
+
 Uncontrolled: Passengers, Time of Departure, Day of the Week, Weather, Speed, Route, Traffic
 
 Operator: Acceleration, Deceleration, How Person Drives
