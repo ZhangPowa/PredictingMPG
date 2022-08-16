@@ -25,14 +25,15 @@ Uncontrolled: Passengers, Time of Departure, Day of the Week, Weather, Speed, Ro
 
 Operator: Acceleration, Deceleration, How Person Drives
 Vehicle: Lexus 
-Lane: 1,2,3,4 
-Speed: High(70+),  Medium(50-65), Super Low (0-45)
+Speed: High(70+), Low
 Passengers: 1 , More than 1 
-Weather: A(90+), B(78-90), C (77-)
-Time of Departure: Early Morning(6AM-8AM), Mid Morning(9AM-12PM), Afternoon(12PM-6PM), Evening (6PM-9PM), Late Evening(9PM-3AM)
+Weather: Hot, Cold
+Time of Departure: Morning, Night
 Day of the Week: Weekday, Weekend
 Route: Freeway, Street
-Traffic: Towards, Against
+Length of Journey: Long, Short
+Elevation: Up, Down/Neutral
+
 
 ### Sources
 fueleconomy.gov/feg/factors.shtml
